@@ -65,7 +65,7 @@ vlyra/
 ```
 
 ## Models
-Click [here](https://simarpreetsingh.org/downloads/vlyra-latest.pt) to download the latest version. Please note that vlyra is in extremely early development and does not yet have much functionality.
+Click [here](https://simarpreetsingh.org/downloads/vlyra/latest/vlyra-latest.pt) to download the latest version. Please note that vlyra is in extremely early development and does not yet have much functionality.
 
 ## Dataset
 
